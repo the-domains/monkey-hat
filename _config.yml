@@ -1,0 +1,14 @@
+layout_spectrum: 0.4426523
+color:
+  saturation: 0.4274264
+  lightness: 0.6929533
+  brandStrength: 0.522618
+  brandColors:
+    - '#000000'
+    - '#BEB3A3'
+    - '#2F2820'
+    - '#6E655B'
+    - '#D06D41'
+  rhythmicContrast: 0.6193574
+typography_spectrum: 0.5734767
+name: 'Monkey&hat'
