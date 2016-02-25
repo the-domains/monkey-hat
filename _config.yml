@@ -1,3 +1,16 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2724014
 color:
   saturation: 0.4274264
   brandStrength: 0.522618
@@ -9,18 +22,5 @@ color:
     - '#6E655B'
     - '#D06D41'
   lightness: 0.6929533
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 layout_spectrum: 0.4426523
-typography_spectrum: 0.5734767
 name: 'Monkey&hat'
