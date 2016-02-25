@@ -1,3 +1,7 @@
+name: 'Monkey&hat'
+favicon: null
+layout_spectrum: 0.4426523
+typography_spectrum: 0.39303
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2724014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4274264
-  brandStrength: 0.522618
-  rhythmicContrast: 0.6193574
   brandColors:
     - '#000000'
     - '#BEB3A3'
     - '#2F2820'
     - '#6E655B'
     - '#D06D41'
+  brandStrength: 0.8125
   lightness: 0.6929533
-layout_spectrum: 0.4426523
-name: 'Monkey&hat'
+  saturation: 0.4274264
+  rhythmicContrast: 0.6193574
+purpose: []
